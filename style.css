@@ -27,6 +27,8 @@ section{
 .navbar{
     display: flex;
     justify-content: space-between;
+    max-width: 1240px;
+    margin: auto;
 }
 .navbar-left{
     display: flex;
